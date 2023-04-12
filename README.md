@@ -1,6 +1,9 @@
 #PhotoMagnum Script for Photographers
 
 PhotoMagnum is a script designed to assist photographers renaming selected files on MacOS using the Magnum Unique Numbering System.
+It can keep track of the foto number sequence in a story.
+
+When files are selected, the script will look for files in the folder that already belong to a story and start sequencing photos acordingly.
 
 The script must be added to Automator and can be used by selecting a group of files and right-clicking to open the context menu.
 
