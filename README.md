@@ -21,11 +21,13 @@ The script must be added to Automator and can be used by selecting a group of fi
 
     Select a group of files in Finder.
     Right-click on the selection and click on "Quick Actions" and then on "PhotoMagnum".
-    The script will ask the story number of those files, and automatically rename the files according to the Magnum Unique Numbering System.
+    The script will ask the story number of those files, and automatically rename the files,
+    according to the Magnum Unique Numbering System.
 
 ##Customization
 
-The script uses the Magnum Unique Numbering System,
+The script uses a simplified version of the Magnum Unique Numbering System.
+Customise the first lines of the script to your own needs.
 
     Open Automator and select the PhotoMagnum workflow.
     Double-click on the "Run Shell Script" action.
